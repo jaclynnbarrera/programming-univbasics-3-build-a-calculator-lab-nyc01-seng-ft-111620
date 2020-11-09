@@ -9,12 +9,13 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-mult = num1 * num2
-return mult
+div = num1 / num2
+return div
 end
 
 def multiplication(num1, num2)
-
+mult = num1 * num2
+return mult
 end
 
 def modulo(num1, num2)
