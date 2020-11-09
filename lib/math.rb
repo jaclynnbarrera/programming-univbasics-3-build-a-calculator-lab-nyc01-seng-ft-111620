@@ -26,5 +26,4 @@ end
 def square_root(num)
   sq = num1 ** num2
   return sq
-
 end
